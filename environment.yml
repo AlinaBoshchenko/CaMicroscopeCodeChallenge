@@ -5,5 +5,5 @@ dependencies:
   - bqplot
   - numpy
   - ipywidgets
-  - matplotlib
   - voila
+  - matplotlib
