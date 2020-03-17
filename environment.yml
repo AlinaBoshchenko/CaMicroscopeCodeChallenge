@@ -5,8 +5,5 @@ dependencies:
   - bqplot
   - numpy
   - ipywidgets
-  - cv2
-  - argparse
-  - glob
   - matplotlib
   - voila
